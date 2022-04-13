@@ -6,7 +6,7 @@ Frontend Developer and mechatronics engineering student
 
 ```javascript
 const Poncho = {
-  pronouns: 'He' | 'His',
+  pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python'], 
   tools: ['Node', 'Azure', "VS Codse"],
   areas: ["Frontend", "Cloud"],
