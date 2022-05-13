@@ -13,6 +13,6 @@ const Poncho = {
 ```
 <div align="center">
   <a href="https://github.com/alfonso-ramos">
-    <img height="230em" width="400em" src="https://github-readme-stats.vercel.app/api?username=alfonso-ramos&show_icons=true&theme=tokyonight"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=alfonso-ramos&show_icons=true&theme=tokyonight"/>
         <img h width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso-ramos&layout=compact&theme=tokyonight"/>
 </div>
