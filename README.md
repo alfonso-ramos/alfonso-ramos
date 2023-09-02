@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Poncho Ramos 👋</h1>
-<h3 align="center">Frontend Developer and mechatronics engineering student</h3>
+<h3 align="center">Frontend developer and IT engineering student</h3>
 
 ## A little bit about me...
 
