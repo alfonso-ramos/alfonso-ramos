@@ -18,23 +18,36 @@ I enjoy building clean, intuitive, and scalable applications that make a real im
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
-JavaScript · TypeScript · Python · Java · C · C++  
+### 🖥️ Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+</p>  
 
-**Frontend:**  
-React · Vue · TailwindCSS  
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
+</p>  
 
-**Mobile:**  
-React Native (Expo)  
+### 📱 Mobile  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />  
+  <br/><sub>React Native (Expo) uses the React ecosystem</sub>
+</p>  
 
-**Backend:**  
-Node.js · Express · PostgreSQL · MongoDB · Prisma  
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma" />
+</p>  
 
-**DevOps & Cloud:**  
-Docker · Jenkins · AWS · Kubernetes  
+### ☁️ DevOps & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,kubernetes" />
+</p>  
 
-**Version Control & Tools:**  
-Git · GitHub  
+### 🔧 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>  
 
 ---
 
@@ -49,8 +62,8 @@ Git · GitHub
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alfonso-ramos&show_icons=true&hide_border=true&theme=dark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso-ramos&layout=compact&hide_border=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfonso-ramos&show_icons=true&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonso-ramos&layout=compact&hide_border=true&theme=dark"/>
 </p>
 
 ---
@@ -58,6 +71,3 @@ Git · GitHub
 ## 📫 Let’s Connect  
 
 - 🌐 [ponchoramos.com](https://ponchoramos.com)  
-
-
-
